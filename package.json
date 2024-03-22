@@ -1,0 +1,17 @@
+{
+  "name": "last.server",
+  "version": "0.0.1",
+  "description": "The last server a world will have when it will be destroyed",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "nemmen",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3"
+  }
+}
